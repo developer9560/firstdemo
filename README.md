@@ -1,4 +1,5 @@
 # firstdemo
 i am learning github
 <br/>
-Author -- Suraj Kumar.
+Author -- Suraj Kumar (developer)
+
